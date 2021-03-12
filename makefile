@@ -1,4 +1,4 @@
-all: go c cpp
+all: go
 	python ffi.py
 
 go: force
