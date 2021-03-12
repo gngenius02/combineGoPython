@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import ctypes
 
 goLibrary = ctypes.cdll.LoadLibrary('./main.so')
